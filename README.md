@@ -5,7 +5,7 @@ Tässä tekemistä joulukuun kolmelle viimeiselle viikolle keskiviikko (pois luk
 
 Maanantaiden etätehtävistä lähetetty erillinen Wilma viesti.  
 
-## Etätehtävät viikoille 49, 50 ja 51  
+## Etätehtävät viikoille 49, 50 ja 51 (ke/to)  
 
 Puristetaan persiillä normaalisti eli tehtävien teko luokassa C312. *Timon* ja *Mikon* valvonnassa.  
 
